@@ -13,7 +13,7 @@ int main()
 
 	printf("lower: %s\nupper: %s", lower, upper);
 
-	lower[7] = 'g';
+	//lower[7] = 'g';
 	
 	return 0;
 }
