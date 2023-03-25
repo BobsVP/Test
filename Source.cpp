@@ -11,7 +11,7 @@ int main()
 	char letter_d = lower[3];
 	char letter_D = upper_ptr[3];
 
-	printf("lower: %s\nupper: %s", lower, upper);
+	printf("lower: %s\nupper: %s\n", lower, upper);
 
 	//lower[7] = 'g';
 	
